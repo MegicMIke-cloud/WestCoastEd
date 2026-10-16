@@ -1,0 +1,14 @@
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.exe
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.deps.json
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.runtimeconfig.json
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.dll
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\bin\Debug\net10.0\WestcoastEducation.pdb
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.AssemblyInfoInputs.cache
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.AssemblyInfo.cs
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.csproj.CoreCompileInputs.cache
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.dll
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\refint\WestcoastEducation.dll
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.pdb
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\WestcoastEducation.genruntimeconfig.cache
+C:\Users\liama\Downloads\WestcoastEducation (3)\WestcoastEducation\obj\Debug\net10.0\ref\WestcoastEducation.dll
